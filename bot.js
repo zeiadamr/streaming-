@@ -15,3 +15,6 @@ client.user.setStatus("dnd")
 
 
 client.login(process.env.TOKEN);// لا تغير فيها شيء
+client.login(process.env.TOKEN2);// لا تغير فيها شيء
+client.login(process.env.TOKEN3);// لا تغير فيها شيء
+client.login(process.env.TOKEN4);// لا تغير فيها شيء
